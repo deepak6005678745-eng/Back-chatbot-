@@ -1,0 +1,6 @@
+Flask
+google-genai
+google-auth
+pymongo[srv]
+pytz
+gunicorn
